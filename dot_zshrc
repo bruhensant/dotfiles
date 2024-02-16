@@ -114,6 +114,8 @@ alias gb="gh f -b"
 alias omr="omz reload"
 alias ll="ls -la"
 alias l="eza"
+alias mzdt="micro ~/.zshrc"
+alias mi3dt="micro ~/.config/i3/config"
 
 alias gfl="gf && gl"
 
