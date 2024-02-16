@@ -1,6 +1,7 @@
 deps:
 
 bat
+bat-extras
 btop*
 chezmoi
 eza
