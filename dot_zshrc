@@ -117,6 +117,8 @@ alias mzdt="micro ~/.zshrc"
 alias mi3dt="micro ~/.config/i3/config"
 alias rm="rm -i"
 
+alias man="batman"
+
 alias cze="chezmoi edit"
 alias cza="chezmoi -v apply"
 alias cc="chezmoi cd"
