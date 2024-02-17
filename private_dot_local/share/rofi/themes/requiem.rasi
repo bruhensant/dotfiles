@@ -47,6 +47,9 @@ element.normal.active {
 element.selected.active {
 	text-color:       @white;
 }
+element.selected.urgent {
+	text-color:       @white;
+}
 element.selected.normal {
     text-color:       @white;
 }
