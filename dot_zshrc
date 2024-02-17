@@ -104,27 +104,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias cd="z"
-alias ls="eza"
-alias cls="clear"
-alias cat="bat"
-alias htop="btop"
-alias gb="gh f -b"
-alias omr="omz reload"
-alias ll="ls -la"
-alias l="eza"
-alias mzdt="micro ~/.zshrc"
-alias mi3dt="micro ~/.config/i3/config"
-alias rm="rm -i"
 
-alias man="batman"
-
-alias cze="chezmoi edit"
-alias cza="chezmoi -v apply"
-alias cc="chezmoi cd"
-alias cz="chezmoi"
-
-alias gfl="gf && gl"
 
 
 
