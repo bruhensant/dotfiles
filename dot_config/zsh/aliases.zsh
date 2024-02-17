@@ -25,7 +25,9 @@ alias ls="eza"
 alias cd="z"
 
 # Chezmoi
-alias cze="EDITOR=code chezmoi edit"
+cze() {
+  EDITOR=code chezmoi edit $1 --apply
+}
 alias cza="chezmoi apply"
 alias czaa="chezmoi add"
 alias cc="chezmoi cd"
