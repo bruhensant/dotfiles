@@ -1,0 +1,7 @@
+[Desktop Entry]
+Categories=Development;
+Exec=git-butler
+Icon=git-butler
+Name=GitButler
+Terminal=false
+Type=Application
