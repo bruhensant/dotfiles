@@ -126,6 +126,8 @@ alias cz="chezmoi"
 
 alias gfl="gf && gl"
 
+alias ccze="EDITOR=code chezmoi edit"
+
 eval "$(zoxide init zsh)"
 
 export NVM_DIR="$HOME/.nvm"
