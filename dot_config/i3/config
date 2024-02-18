@@ -113,7 +113,7 @@ bindsym $mod+w exec --no-startup-id rofi -show window
 # bindsym $mod+e layout toggle split
 
 bindsym $mod+e exec thunar
-bindsym $mod+n exec --no-startup-id rofi google-chrome-stable
+bindsym $mod+n exec google-chrome-stable
 
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
