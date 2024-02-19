@@ -14,3 +14,4 @@
 |Oh-My-Zsh |! |zsh |
 |Zoxide |`zoxide` | |
 |Zsh |! | |
+|Kitty |`kitty`| |
