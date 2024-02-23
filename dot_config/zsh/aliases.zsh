@@ -11,6 +11,9 @@ alias omr="omz reload"
 ## Git
 alias gb="gh f -b"
 alias gfl="gf && gl"
+gcbp() {
+	  gcb $1 && gpsup
+}
 
 # Edição
 alias mzdt="micro ~/.zshrc"
