@@ -35,3 +35,8 @@ alias cza="chezmoi apply"
 alias czaa="chezmoi add"
 alias cc="chezmoi cd"
 alias cz="chezmoi"
+
+# Yarn
+alias y="yarn"
+alias yd="yarn dev"
+alias ydd="yarn docker:dev"
