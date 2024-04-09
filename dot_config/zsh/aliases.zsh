@@ -7,7 +7,7 @@ alias rm="rm -i"
 ## Encurtadores
 alias cls="clear"
 alias omr="omz reload"
-alias btu="bluetuith"
+alias bt="bluetuith"
 
 ## Git
 alias gb="gh f -b"
