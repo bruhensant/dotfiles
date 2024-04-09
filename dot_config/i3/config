@@ -80,10 +80,16 @@ bindsym $mod+l exec --no-startup-id betterlockscreen -l
 # bindsym $mod+ccedilla focus right
 
 # Multiple monitors
-bindsym $mod+i exec mons -n top
-bindsym $mod+j exec mons -n left
-bindsym $mod+k exec mons -n right
-bindsym $mod+m exec mons -n bottom
+bindsym $mod+Shift+i exec mons -n top
+bindsym $mod+Shift+j exec mons -n left
+bindsym $mod+Shift+k exec mons -n right
+bindsym $mod+Shift+m exec mons -n bottom
+
+bindsym $mod+i exec mons -e top
+bindsym $mod+j exec mons -e left
+bindsym $mod+k exec mons -e right
+bindsym $mod+m exec mons -e bottom
+
 bindsym $mod+o exec mons -o
 
 # alternatively, you can use the cursor keys:
