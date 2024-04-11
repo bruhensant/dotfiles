@@ -8,6 +8,7 @@ alias rm="rm -i"
 alias cls="clear"
 alias omr="omz reload"
 alias bt="bluetuith"
+alias hero="xrandr --output HDMI-1-0 --mode 1920x1080 --rate 119"
 
 ## Git
 alias gb="gh f -b"
@@ -41,3 +42,4 @@ alias cz="chezmoi"
 alias y="yarn"
 alias yd="yarn dev"
 alias ydd="yarn docker:dev"
+
