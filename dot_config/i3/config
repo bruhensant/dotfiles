@@ -98,6 +98,9 @@ bindsym $mod+Down focus down
 bindsym $mod+Up focus up
 bindsym $mod+Right focus right
 
+# Abre o tetr.io
+bindsym $mod+t exec xdg-open https://tetr.io
+
 # move focused window
 # bindsym $mod+Shift+j move left
 # bindsym $mod+Shift+k move down
